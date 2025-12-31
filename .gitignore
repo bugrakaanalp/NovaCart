@@ -1,0 +1,17 @@
+# .gitignore
+
+# Gereksiz Node.js dosyaları
+node_modules/
+dist/
+.env
+
+# Gereksiz .NET dosyaları
+bin/
+obj/
+*.user
+.vscode/
+
+# Veritabanı (Herkes kendi veritabanını oluşturmalı)
+*.db
+*.db-shm
+*.db-wal
