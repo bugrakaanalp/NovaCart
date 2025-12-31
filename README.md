@@ -29,11 +29,17 @@ NovaCart is a modern, full-stack e-commerce application designed to demonstrate 
 * **Product Management:** Dynamic product listing with client-side filtering and caching mechanism.
 * **Shopping Cart:** Real-time cart management with local storage persistence.
 * **Order System:** Complete checkout flow capturing customer details (Name, Address, Phone).
+
+<img width="1816" height="1568" alt="image" src="https://github.com/user-attachments/assets/9b682052-33f3-40af-8034-4bcca6985aa1" />
+
 * **Admin Dashboard:**
     * View all customer orders.
     * Track logistics status (Preparation -> Shipped).
     * Countdown timer for shipping deadlines (7-day logic).
     * Update tracking numbers.
+ 
+<img width="2879" height="949" alt="image" src="https://github.com/user-attachments/assets/e68415a3-4c65-42c2-a8ab-5e643ab52cfa" />
+
 * **Responsive UI:** Fully responsive design with dark mode aesthetics and glassmorphism effects.
 
 ## 📦 How to Run
