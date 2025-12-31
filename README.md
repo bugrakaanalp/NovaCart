@@ -2,7 +2,7 @@
 
 NovaCart is a modern, full-stack e-commerce application designed to demonstrate robust API architecture and a dynamic, custom-styled user interface.
 
-![Project Preview]
+## Project Preview
 <img width="2879" height="1583" alt="image" src="https://github.com/user-attachments/assets/3dc0a265-0732-4e99-b39d-129f8736fa0b" />
 
 <img width="2876" height="1581" alt="image" src="https://github.com/user-attachments/assets/4566ff43-cf4f-453a-a429-339781ab91f0" />
